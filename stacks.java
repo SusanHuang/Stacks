@@ -3,10 +3,7 @@ import java.util.Arrays;
 public class stacks {
 	
 	private String[] stackArray;
-	
-	// Size of the Array
 	private int stackSize;
-	
 	private int topOfStack = -1;
 	
 	theStack(int size) {
